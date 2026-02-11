@@ -1,4 +1,3 @@
-````markdown
 # Curved Motion Visualizer — SDL 2 (Unit 2)
 
 This project is an interactive Python application created for a Self-Directed Learning (SDL) project focused on **Unit 2: Curved Motion**. The goal of the tool is to make curve transformations and parametric motion easier to understand by allowing users to interact with curves and immediately see how equations affect shape and motion.
@@ -74,7 +73,6 @@ Install dependencies with:
 
 ```bash
 pip install numpy matplotlib
-````
 
 ---
 
