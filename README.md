@@ -44,7 +44,7 @@ This makes it easier to understand how motion behaves along curved paths.
 ---
 
 ### Help Tab
-A built-in help section explains how to use the tool and how to interpret what is shown on the screen. It also includes recommended test cases so users can quickly explore meaningful examples.
+A built-in help section explains how to use the tool and how to interpret what is shown on the screen. It also includes recommended test cases so users can quickly explore meaningful examples. (I didn´t include this on my first SDL and I felt it was lacking this section)
 
 ---
 
