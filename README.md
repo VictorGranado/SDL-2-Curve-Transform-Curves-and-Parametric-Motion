@@ -111,11 +111,3 @@ This project was created as part of a self-directed learning assignment to stren
 This project is provided for educational use.
 
 ```
-
----
-
-If you'd like, next we can:
-- Add **badges**, cleaner formatting, or demo GIF placeholders
-- Add example input presets
-- Make the README slightly more personal or academic depending on submission needs.
-```
