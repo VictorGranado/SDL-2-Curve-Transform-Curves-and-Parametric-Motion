@@ -28,7 +28,9 @@ Users can select a parabola, ellipse, or hyperbola and modify parameters that tr
 
 This helps visualize how parameters affect curve position and shape.
 
-📷 *Placeholder: screenshot showing dashed original curve and transformed curve*
+![Alt text](https://github.com/VictorGranado/2D-3D-Visualizer/blob/2017a562ac46f855f5b43ec55d91754e33934ca2/Screenshot%202026-01-27%20184048.png)
+![Alt text](https://github.com/VictorGranado/2D-3D-Visualizer/blob/2017a562ac46f855f5b43ec55d91754e33934ca2/Screenshot%202026-01-27%20184048.png)
+![Alt text](https://github.com/VictorGranado/2D-3D-Visualizer/blob/2017a562ac46f855f5b43ec55d91754e33934ca2/Screenshot%202026-01-27%20184048.png)
 
 ---
 
@@ -39,12 +41,14 @@ Users can modify curve parameters, motion speed, and vector scaling to see how m
 
 This makes it easier to understand how motion behaves along curved paths.
 
-📷 *Placeholder: screenshot showing moving point with velocity and acceleration vectors*
+![Alt text](https://github.com/VictorGranado/2D-3D-Visualizer/blob/2017a562ac46f855f5b43ec55d91754e33934ca2/Screenshot%202026-01-27%20184048.png)
+![Alt text](https://github.com/VictorGranado/2D-3D-Visualizer/blob/2017a562ac46f855f5b43ec55d91754e33934ca2/Screenshot%202026-01-27%20184048.png)
 
 ---
 
 ### Help Tab
 A built-in help section explains how to use the tool and how to interpret what is shown on the screen. It also includes recommended test cases so users can quickly explore meaningful examples. (I didn´t include this on my first SDL and I felt it was lacking this section)
+![Alt text](https://github.com/VictorGranado/2D-3D-Visualizer/blob/2017a562ac46f855f5b43ec55d91754e33934ca2/Screenshot%202026-01-27%20184048.png)
 
 ---
 
