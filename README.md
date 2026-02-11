@@ -28,7 +28,7 @@ Users can select a parabola, ellipse, or hyperbola and modify parameters that tr
 
 This helps visualize how parameters affect curve position and shape.
 
-![Alt text](https://github.com/VictorGranado/2D-3D-Visualizer/blob/2017a562ac46f855f5b43ec55d91754e33934ca2/Screenshot%202026-01-27%20184048.png)
+![Alt text](https://github.com/VictorGranado/SDL-2-Curve-Transform-Curves-and-Parametric-Motion/blob/67a5fc092f2b421604b197e7792e453d3cb86428/Screenshot%202026-02-10%20215439.png)
 ![Alt text](https://github.com/VictorGranado/2D-3D-Visualizer/blob/2017a562ac46f855f5b43ec55d91754e33934ca2/Screenshot%202026-01-27%20184048.png)
 ![Alt text](https://github.com/VictorGranado/2D-3D-Visualizer/blob/2017a562ac46f855f5b43ec55d91754e33934ca2/Screenshot%202026-01-27%20184048.png)
 
