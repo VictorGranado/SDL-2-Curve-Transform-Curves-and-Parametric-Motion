@@ -41,6 +41,8 @@ Users can modify curve parameters, motion speed, and vector scaling to see how m
 
 This makes it easier to understand how motion behaves along curved paths.
 
+These screenshots are showing an animation
+
 ![Alt text](https://github.com/VictorGranado/SDL-2-Curve-Transform-Curves-and-Parametric-Motion/blob/6c403499c698412e1b47011184687c72453eafa1/Screenshot%202026-02-10%20215934.png)
 ![Alt text](https://github.com/VictorGranado/SDL-2-Curve-Transform-Curves-and-Parametric-Motion/blob/6c403499c698412e1b47011184687c72453eafa1/Screenshot%202026-02-10%20220115.png)
 
