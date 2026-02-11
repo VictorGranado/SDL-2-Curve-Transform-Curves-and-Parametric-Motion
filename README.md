@@ -1,6 +1,6 @@
 # Curved Motion Visualizer — SDL 2 (Unit 2)
 
-This project is an interactive Python application created for a Self-Directed Learning (SDL) project focused on **Unit 2: Curved Motion**. The goal of the tool is to make curve transformations and parametric motion easier to understand by allowing users to interact with curves and immediately see how equations affect shape and motion.
+This project is an interactive Python application created for a Self-Directed Learning (SDL) project focused on Unit 2: Curved Motion. The goal of the tool is to make curve transformations and parametric motion easier to understand by allowing users to interact with curves and immediately see how equations affect shape and motion.
 
 In class, many of these topics are handled algebraically, which can make it difficult to develop geometric intuition. This visualizer helps bridge that gap by displaying curves, transformations, and motion in real time. By experimenting with parameters and watching motion along curves, users can better understand how equations relate to geometry and movement.
 
