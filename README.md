@@ -29,8 +29,8 @@ Users can select a parabola, ellipse, or hyperbola and modify parameters that tr
 This helps visualize how parameters affect curve position and shape.
 
 ![Alt text](https://github.com/VictorGranado/SDL-2-Curve-Transform-Curves-and-Parametric-Motion/blob/67a5fc092f2b421604b197e7792e453d3cb86428/Screenshot%202026-02-10%20215439.png)
-![Alt text](https://github.com/VictorGranado/2D-3D-Visualizer/blob/2017a562ac46f855f5b43ec55d91754e33934ca2/Screenshot%202026-01-27%20184048.png)
-![Alt text](https://github.com/VictorGranado/2D-3D-Visualizer/blob/2017a562ac46f855f5b43ec55d91754e33934ca2/Screenshot%202026-01-27%20184048.png)
+![Alt text](https://github.com/VictorGranado/SDL-2-Curve-Transform-Curves-and-Parametric-Motion/blob/6c403499c698412e1b47011184687c72453eafa1/Screenshot%202026-02-10%20215625.png)
+![Alt text](https://github.com/VictorGranado/SDL-2-Curve-Transform-Curves-and-Parametric-Motion/blob/6c403499c698412e1b47011184687c72453eafa1/Screenshot%202026-02-10%20215708.png)
 
 ---
 
@@ -41,14 +41,14 @@ Users can modify curve parameters, motion speed, and vector scaling to see how m
 
 This makes it easier to understand how motion behaves along curved paths.
 
-![Alt text](https://github.com/VictorGranado/2D-3D-Visualizer/blob/2017a562ac46f855f5b43ec55d91754e33934ca2/Screenshot%202026-01-27%20184048.png)
-![Alt text](https://github.com/VictorGranado/2D-3D-Visualizer/blob/2017a562ac46f855f5b43ec55d91754e33934ca2/Screenshot%202026-01-27%20184048.png)
+![Alt text](https://github.com/VictorGranado/SDL-2-Curve-Transform-Curves-and-Parametric-Motion/blob/6c403499c698412e1b47011184687c72453eafa1/Screenshot%202026-02-10%20215934.png)
+![Alt text](https://github.com/VictorGranado/SDL-2-Curve-Transform-Curves-and-Parametric-Motion/blob/6c403499c698412e1b47011184687c72453eafa1/Screenshot%202026-02-10%20220115.png)
 
 ---
 
 ### Help Tab
 A built-in help section explains how to use the tool and how to interpret what is shown on the screen. It also includes recommended test cases so users can quickly explore meaningful examples. (I didn´t include this on my first SDL and I felt it was lacking this section)
-![Alt text](https://github.com/VictorGranado/2D-3D-Visualizer/blob/2017a562ac46f855f5b43ec55d91754e33934ca2/Screenshot%202026-01-27%20184048.png)
+![Alt text](https://github.com/VictorGranado/SDL-2-Curve-Transform-Curves-and-Parametric-Motion/blob/6c403499c698412e1b47011184687c72453eafa1/Screenshot%202026-02-10%20220141.png)
 
 ---
 
